@@ -1,0 +1,17 @@
+En /app se encuentran los archivos
+pages.tsx
+layout.tsx
+
+Archivos reservados 
+
+layout | Diseño global que comparte una URL o sus segmentos
+page | Diseño único para una URL
+loading | Componene que se muestra mientras carga una página con Suspense
+not-found | Componente que se muestra cuando un recurso no es encontrado - 404
+error | Componente que se muestra cuando hay errores inesperados
+route | Archivo para endpoint de REST API
+
+La aplicación se divide en segmentos y en cada segmento estarán los archivos
+page.tsx y layout.tsx
+
+
