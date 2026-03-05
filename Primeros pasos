@@ -1,0 +1,14 @@
+// Crear el proyecto
+npx create-next-app@latest
+
+// Asignar el nombre
+nombre-proyecto
+
+// Acepta configuración por defecto
+y
+
+// Ir a la carpeta del proyecto 
+cd nombre-proyecto
+
+// Arrancar el proyecto
+npm run dev
